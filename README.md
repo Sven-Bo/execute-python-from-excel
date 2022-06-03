@@ -16,6 +16,9 @@ If you're happy with the functionality of Excel but want to extend it in some wa
 ## How to install the addin
 [![YouTube Video](https://img.youtube.com/vi/8E4se9Ah5o8/0.jpg)](https://youtu.be/8E4se9Ah5o8)
 
+## How to update the addin
+[![YouTube Video](https://img.youtube.com/vi/EOb6lvDKyTo/0.jpg)](https://youtu.be/EOb6lvDKyTo)
+
 ## About Me
 - Sven from Coding Is Fun
 - YouTube: https://youtube.com/c/CodingIsFun
