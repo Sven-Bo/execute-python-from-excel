@@ -4,8 +4,7 @@
 If you're happy with the functionality of Excel but want to extend it in some way, then this video is for you. This video will show you how to execute Python scripts from Excel. This allows your spreadsheets to do more than just crunch numbers. You can create graphs and automate tasks as well. In particular, we will be using the MyToolBelt add-in to execute a Python file from Excel.
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/H-w-FmIyoMY/0.jpg)](https://youtu.be/H-w-FmIyoMY)
 
 ## Screenshot
 ![AddIn Screenshot](/demo.jpg?raw=true "AddIn Ribbon")
